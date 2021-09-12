@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">A passionate frontend developer living in Portland</h3>
 
-- 🔭 I’m currently working on **Cast - A Weather App**
+- 🔭 I’m currently working on **The Odin Project**
 
 - 🌱 I’m currently learning **React**
 
