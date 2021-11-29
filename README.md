@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">A passionate frontend developer living in Portland</h3>
 
-- 🔭 I’m currently working on my **Have You Scene It?** - a movie app for finding movies you've watched, or want to watch.
+- 🔭 I’m currently working on my **Cinema List** - a movie app for finding movies you've watched, or want to watch.
 
 - 🌱 I’m currently learning **React**
 
