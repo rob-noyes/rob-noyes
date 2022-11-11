@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">A passionate frontend developer living in Portland</h3>
 
-- 🔭 I’m currently working on **Get It Done** - a schedule and to do list app.
-
-- 🌱 I’m currently learning **Shopify**
-
 - 👨‍💻 All of my projects are available at <a href="https://robnoyes.com">robnoyes.com</a>
 
 - 💬 Ask me about **JavaScript**
