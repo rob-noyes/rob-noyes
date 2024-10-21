@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">A passionate frontend developer living in Portland</h3>
+<h3 align="center">A passionate frontend developer living in New York City</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://robnoyes.com">robnoyes.com</a>
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **robby.noyes@gmail.com**
 
-- ⚡ Fun fact **My two cats run my world**
+- ⚡ Fun fact **My three cats run my world**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rob-noyes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rnoyes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/robwideweb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/robwideweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rnoyes)  
 
